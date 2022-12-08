@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to DevOps Romaissa  !!! GIT----> jenkins---> webapp.war--->docker(prod) sur VM .
+<h1> Hello, Welcome to DevOps Romaissa  !!! Dploiment et push image vers Dockerhub
 </h1>
